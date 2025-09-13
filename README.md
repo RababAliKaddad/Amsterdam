@@ -31,28 +31,25 @@ Findings:
 	•	The visualizations highlighted neighborhoods with higher or lower pricing trends, providing valuable insights for decision-making.
 
 The quastion : &  
-  # Which neighborhood have the highest demand for Airbnb listings?
+ #1# # Which neighborhood have the highest demand for Airbnb listings?
 <img width="476" height="257" alt="image" src="https://github.com/user-attachments/assets/3805d255-78c9-4eaa-9476-80edc4b0b1c3" />
 
 
-# Find the average price for different property and room types ?
-<img width="2299" height="158" alt="image" src="https://github.com/user-attachments/assets/e4a08e4d-e5c4-489e-962f-14aed9b5d700" />
+2## # Find the average price for different property and room types ?
+<img width="471" height="219" alt="image" src="https://github.com/user-attachments/assets/7c33bead-13de-48c9-9a88-b92127c0539b" />
 
-# Affordable Neighborhoods with Good Ratings
-<img width="464" height="271" alt="image" src="https://github.com/user-attachments/assets/9c824bc6-bb53-4e3b-bddd-b6caefe140cc" />
+3## # Affordable Neighborhoods with Good Ratings
+<img width="497" height="278" alt="image" src="https://github.com/user-attachments/assets/02605f44-2c88-4bb0-826d-2f59d7806a8a" />
 
-# "Which room type has the highest demand based on reviews per month?"
-
- <img width="503" height="278" alt="image" src="https://github.com/user-attachments/assets/af38100a-8565-4b5c-86cf-079187c44531" />
+4## # "Which room type has the highest demand based on reviews per month?"
+ <img width="502" height="278" alt="image" src="https://github.com/user-attachments/assets/29e73c96-33ee-4751-9313-588e4bdbb1cb" />
 
 # "How does average price trend across different months?"
- 
-<img width="480" height="263" alt="image" src="https://github.com/user-attachments/assets/73f115b7-772f-4911-b557-2291b28b9f93" />
+ <img width="506" height="262" alt="image" src="https://github.com/user-attachments/assets/31b67945-a058-4e11-8438-3b0d48c46217" />
 
 
 # Conclusion
 “By analyzing student accommodation trends in Amsterdam, we can help students find good places to live while guiding investors to high-demand, profitable areas.”
-
 
 # The Recommendations
 Students: Choose neighborhoods with affordable prices and good reviews; 
